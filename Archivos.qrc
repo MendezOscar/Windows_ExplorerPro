@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>desktop.png</file>
+        <file>folder.png</file>
+        <file>txt.png</file>
+        <file>archivo.png</file>
+        <file>folder2.png</file>
+        <file>picture.png</file>
+        <file>WinRAR.png</file>
+    </qresource>
+</RCC>
